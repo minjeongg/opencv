@@ -5,6 +5,10 @@
 #include "cascadeclassifier.h"
 
 using namespace std;
+/*
+Add some lines of comments here for testing and illustration purposes.
+Created by @minjeongg
+*/
 using namespace cv;
 
 int main( int argc, char* argv[] )
